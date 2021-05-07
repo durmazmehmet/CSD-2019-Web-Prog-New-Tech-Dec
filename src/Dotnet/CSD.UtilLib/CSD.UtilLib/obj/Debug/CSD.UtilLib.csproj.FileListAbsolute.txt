@@ -1,0 +1,5 @@
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Dotnet\CSD.UtilLib\CSD.UtilLib\bin\Debug\CSD.UtilLib.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Dotnet\CSD.UtilLib\CSD.UtilLib\bin\Debug\CSD.UtilLib.pdb
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Dotnet\CSD.UtilLib\CSD.UtilLib\obj\Debug\CSD.UtilLib.csprojAssemblyReference.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Dotnet\CSD.UtilLib\CSD.UtilLib\obj\Debug\CSD.UtilLib.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Dotnet\CSD.UtilLib\CSD.UtilLib\obj\Debug\CSD.UtilLib.pdb

@@ -1,0 +1,6 @@
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\StudentApp\StudentApp.Entity\bin\Debug\StudentApp.Entity.dll
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\StudentApp\StudentApp.Entity\bin\Debug\StudentApp.Entity.pdb
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\StudentApp\StudentApp.Entity\obj\Debug\StudentApp.Entity.csprojAssemblyReference.cache
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\StudentApp\StudentApp.Entity\obj\Debug\StudentApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\StudentApp\StudentApp.Entity\obj\Debug\StudentApp.Entity.dll
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\StudentApp\StudentApp.Entity\obj\Debug\StudentApp.Entity.pdb

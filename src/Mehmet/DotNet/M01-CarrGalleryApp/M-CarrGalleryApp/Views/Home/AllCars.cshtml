@@ -1,0 +1,37 @@
+﻿@using CarGalleryApp.Models
+@model IEnumerable<CarInfo>
+
+@{
+    ViewBag.Title = "Index";    
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-with" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Desc</th>
+                <th>Price</th>
+                <th>Plate</th>
+            </tr>
+            @{
+                foreach (var carInfo in Model)
+                {
+                    <tr>
+                        <td>@carInfo.Id</td>
+                        <td>@carInfo.Description</td>
+                        <td>@carInfo.Price</td>
+                        <td>@carInfo.Plate</td>
+                    </tr>
+
+                    }
+                }
+        </table>
+    </div>
+</body>
+</html>

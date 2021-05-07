@@ -1,0 +1,47 @@
+﻿@model IEnumerable<CSD.AppointmentApp.Entities.Client>
+
+@{
+    ViewData["Title"] = "ListClients";
+}
+
+<h1>ListClients</h1>
+
+<p>
+    <a asp-action="BookAppointment">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var client in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(clientItem => client.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(clientItem => client.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(clientItem => client.Phone)
+            </td>
+            <td>
+                @Html.ActionLink("Change Contact Info", "Edit", new { CitizenID = client.Id }) |
+                @Html.ActionLink("Appointments", "ListClientsAppointments", client) |
+                @Html.ActionLink("Remove Client", "DeleteClient", new { CitizenID = client.Id})
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

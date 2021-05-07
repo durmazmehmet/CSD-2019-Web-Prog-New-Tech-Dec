@@ -1,0 +1,8 @@
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\004-PassDataWithModel\CarGalleryApp.Repository\bin\Debug\CarGalleryApp.Repository.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\004-PassDataWithModel\CarGalleryApp.Repository\bin\Debug\CarGalleryApp.Repository.pdb
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\004-PassDataWithModel\CarGalleryApp.Repository\bin\Debug\CarGalleryApp.Models.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\004-PassDataWithModel\CarGalleryApp.Repository\bin\Debug\CarGalleryApp.Models.pdb
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\004-PassDataWithModel\CarGalleryApp.Repository\obj\Debug\CarGalleryApp.Repository.csprojAssemblyReference.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\004-PassDataWithModel\CarGalleryApp.Repository\obj\Debug\CarGalleryApp.Repository.csproj.CopyComplete
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\004-PassDataWithModel\CarGalleryApp.Repository\obj\Debug\CarGalleryApp.Repository.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\004-PassDataWithModel\CarGalleryApp.Repository\obj\Debug\CarGalleryApp.Repository.pdb

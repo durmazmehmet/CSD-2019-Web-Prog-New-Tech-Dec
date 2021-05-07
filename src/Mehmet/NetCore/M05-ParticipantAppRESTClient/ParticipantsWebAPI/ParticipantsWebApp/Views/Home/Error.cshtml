@@ -1,0 +1,15 @@
+﻿
+@model string
+@{
+    ViewData["Title"] = "Error";
+}
+
+
+
+<h1>@ViewData["Message"]</h1>
+
+
+@{ if (!String.IsNullOrEmpty(Model))
+    {<text>@Model</text> }
+
+}

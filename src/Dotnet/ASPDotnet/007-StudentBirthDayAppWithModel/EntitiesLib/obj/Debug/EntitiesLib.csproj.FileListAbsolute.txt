@@ -1,0 +1,5 @@
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\007-StudentBirthDayAppWithModel\EntitiesLib\bin\Debug\EntitiesLib.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\007-StudentBirthDayAppWithModel\EntitiesLib\bin\Debug\EntitiesLib.pdb
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\007-StudentBirthDayAppWithModel\EntitiesLib\obj\Debug\EntitiesLib.csprojAssemblyReference.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\007-StudentBirthDayAppWithModel\EntitiesLib\obj\Debug\EntitiesLib.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\007-StudentBirthDayAppWithModel\EntitiesLib\obj\Debug\EntitiesLib.pdb

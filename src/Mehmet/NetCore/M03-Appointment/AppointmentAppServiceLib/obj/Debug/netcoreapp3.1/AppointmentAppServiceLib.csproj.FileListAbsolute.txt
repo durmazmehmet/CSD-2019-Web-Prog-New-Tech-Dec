@@ -1,0 +1,14 @@
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppServiceLib\bin\Debug\netcoreapp3.1\CSD.AppointmentApp.Service.deps.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppServiceLib\bin\Debug\netcoreapp3.1\CSD.AppointmentApp.Service.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppServiceLib\bin\Debug\netcoreapp3.1\CSD.AppointmentApp.Service.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppServiceLib\bin\Debug\netcoreapp3.1\CSD.AppointmentApp.Repository.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppServiceLib\bin\Debug\netcoreapp3.1\CSD.Util.DBUtil.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppServiceLib\bin\Debug\netcoreapp3.1\CSD.AppointmentApp.Repository.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppServiceLib\bin\Debug\netcoreapp3.1\CSD.Util.DBUtil.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppServiceLib\obj\Debug\netcoreapp3.1\AppointmentAppServiceLib.csprojAssemblyReference.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppServiceLib\obj\Debug\netcoreapp3.1\AppointmentAppServiceLib.csproj.CoreCompileInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppServiceLib\obj\Debug\netcoreapp3.1\AppointmentAppServiceLib.AssemblyInfoInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppServiceLib\obj\Debug\netcoreapp3.1\AppointmentAppServiceLib.AssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppServiceLib\obj\Debug\netcoreapp3.1\AppointmentAppServiceLib.csproj.CopyComplete
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppServiceLib\obj\Debug\netcoreapp3.1\CSD.AppointmentApp.Service.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppServiceLib\obj\Debug\netcoreapp3.1\CSD.AppointmentApp.Service.pdb

@@ -1,0 +1,9 @@
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\M-CarrGalleryApp\CarGalleryApp.Repository\bin\Debug\CarGalleryApp.Repository.dll
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\M-CarrGalleryApp\CarGalleryApp.Repository\bin\Debug\CarGalleryApp.Repository.pdb
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\M-CarrGalleryApp\CarGalleryApp.Repository\bin\Debug\CarGalleryApp.Models.dll
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\M-CarrGalleryApp\CarGalleryApp.Repository\bin\Debug\CarGalleryApp.Models.pdb
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\M-CarrGalleryApp\CarGalleryApp.Repository\obj\Debug\CarGalleryApp.Repository.csprojAssemblyReference.cache
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\M-CarrGalleryApp\CarGalleryApp.Repository\obj\Debug\CarGalleryApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\M-CarrGalleryApp\CarGalleryApp.Repository\obj\Debug\CarGalleryApp.Repository.csproj.CopyComplete
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\M-CarrGalleryApp\CarGalleryApp.Repository\obj\Debug\CarGalleryApp.Repository.dll
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\M-CarrGalleryApp\CarGalleryApp.Repository\obj\Debug\CarGalleryApp.Repository.pdb

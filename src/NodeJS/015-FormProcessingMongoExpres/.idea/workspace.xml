@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e608f70-ff2a-42fe-b899-b3c7f516161e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gEagMwEMKjkb9FmsNhAa3Ld3mG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/html" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\NodeJS\015-FormProcessingMongoExpres\html" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.org-csystem-restutil.mjs">
+    <configuration name="app.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.mjs" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="dbhelper.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/dbhelper.mjs" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="initserver.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/initserver.mjs" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="org-csystem-restutil.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../modules/org-csystem-restutil.mjs" working-dir="$PROJECT_DIR$/../modules">
+      <method v="2" />
+    </configuration>
+    <configuration name="readhtmls.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/readhtmls.mjs" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.org-csystem-restutil.mjs" />
+        <item itemvalue="Node.js.app.mjs" />
+        <item itemvalue="Node.js.dbhelper.mjs" />
+        <item itemvalue="Node.js.initserver.mjs" />
+        <item itemvalue="Node.js.readhtmls.mjs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e608f70-ff2a-42fe-b899-b3c7f516161e" name="Default Changelist" comment="" />
+      <created>1597682315859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597682315859</updated>
+      <workItem from="1597682316964" duration="8346000" />
+      <workItem from="1597847258480" duration="816000" />
+      <workItem from="1597852962414" duration="6300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="255" key="GridCell.Tab.0.bottom" timestamp="1597864942009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="255" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597864942009" />
+    <state width="1899" height="255" key="GridCell.Tab.0.center" timestamp="1597864942008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="255" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597864942008" />
+    <state width="1899" height="255" key="GridCell.Tab.0.left" timestamp="1597864942008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="255" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597864942008" />
+    <state width="1899" height="255" key="GridCell.Tab.0.right" timestamp="1597864942009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="255" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597864942009" />
+  </component>
+</project>

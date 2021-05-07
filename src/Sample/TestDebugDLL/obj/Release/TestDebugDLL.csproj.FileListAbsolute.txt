@@ -1,0 +1,5 @@
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Sample\TestDebugDLL\bin\Release\TestDebugDLL.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Sample\TestDebugDLL\bin\Release\TestDebugDLL.pdb
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Sample\TestDebugDLL\obj\Release\TestDebugDLL.csproj.CoreCompileInputs.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Sample\TestDebugDLL\obj\Release\TestDebugDLL.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\Sample\TestDebugDLL\obj\Release\TestDebugDLL.pdb

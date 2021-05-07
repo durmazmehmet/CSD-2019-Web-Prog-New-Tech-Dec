@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Developer\\Mehmet\\M05-ParticipantAppRESTClient\\ParticipantsAppClient\\ParticipansAppRestClientService\\ParticipansAppRestClientService.csproj": {}
+  },
+  "projects": {
+    "C:\\Developer\\Mehmet\\M05-ParticipantAppRESTClient\\ParticipantsAppClient\\ParticipansAppRestClientService\\ParticipansAppRestClientService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Developer\\Mehmet\\M05-ParticipantAppRESTClient\\ParticipantsAppClient\\ParticipansAppRestClientService\\ParticipansAppRestClientService.csproj",
+        "projectName": "CSD.ParticipansAppRestClientService",
+        "projectPath": "C:\\Developer\\Mehmet\\M05-ParticipantAppRESTClient\\ParticipantsAppClient\\ParticipansAppRestClientService\\ParticipansAppRestClientService.csproj",
+        "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
+        "outputPath": "C:\\Developer\\Mehmet\\M05-ParticipantAppRESTClient\\ParticipantsAppClient\\ParticipansAppRestClientService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mehme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

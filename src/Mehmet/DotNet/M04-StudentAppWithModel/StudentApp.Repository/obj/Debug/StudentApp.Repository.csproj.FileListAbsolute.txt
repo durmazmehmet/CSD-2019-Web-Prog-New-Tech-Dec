@@ -1,0 +1,9 @@
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\StudentApp\StudentApp.Repository\bin\Debug\StudentApp.Repository.dll
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\StudentApp\StudentApp.Repository\bin\Debug\StudentApp.Repository.pdb
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\StudentApp\StudentApp.Repository\bin\Debug\StudentApp.Entity.dll
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\StudentApp\StudentApp.Repository\bin\Debug\StudentApp.Entity.pdb
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\StudentApp\StudentApp.Repository\obj\Debug\StudentApp.Repository.csprojAssemblyReference.cache
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\StudentApp\StudentApp.Repository\obj\Debug\StudentApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\StudentApp\StudentApp.Repository\obj\Debug\StudentApp.Repository.csproj.CopyComplete
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\StudentApp\StudentApp.Repository\obj\Debug\StudentApp.Repository.dll
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\StudentApp\StudentApp.Repository\obj\Debug\StudentApp.Repository.pdb

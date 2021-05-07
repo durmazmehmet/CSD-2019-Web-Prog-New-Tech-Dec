@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=.;Database=AppointmentAppDb;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data -force

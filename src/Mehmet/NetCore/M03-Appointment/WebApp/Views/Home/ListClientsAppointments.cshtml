@@ -1,0 +1,29 @@
+﻿@model IEnumerable<CSD.AppointmentApp.Entities.Appointment>
+
+@{
+    ViewData["Title"] = "ListClientsAppointments";
+}
+
+<h1>Appointments of @ViewBag.Client</h1>
+
+<p>
+    <a asp-action="BookAppointment">Create New Appointment</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Appointments
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Date)
+        </td>
+    </tr>
+}
+    </tbody>
+</table>

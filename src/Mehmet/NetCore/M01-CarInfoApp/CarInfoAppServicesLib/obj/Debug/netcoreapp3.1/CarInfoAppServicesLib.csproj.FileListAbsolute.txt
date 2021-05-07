@@ -1,0 +1,77 @@
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.deps.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.Util.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.csprojAssemblyReference.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.csproj.CoreCompileInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.AssemblyInfoInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.AssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.csproj.CopyComplete
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.deps.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.Util.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.csprojAssemblyReference.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.AssemblyInfoInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.AssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.csproj.CopyComplete
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.csproj.CoreCompileInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\EFCorePluralizer.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.Util.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.csprojAssemblyReference.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.AssemblyInfoInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.AssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.deps.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.csproj.CopyComplete
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.csproj.CoreCompileInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.deps.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.Util.DBUtil.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.csprojAssemblyReference.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.csproj.CoreCompileInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.AssemblyInfoInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.AssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.csproj.CopyComplete
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.deps.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.Util.DBUtil.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoAppServicesLib\bin\Debug\netcoreapp3.1\CSD.Util.DBUtil.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.csprojAssemblyReference.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.csproj.CoreCompileInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.AssemblyInfoInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.AssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CarInfoAppServicesLib.csproj.CopyComplete
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoAppServicesLib\obj\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.pdb

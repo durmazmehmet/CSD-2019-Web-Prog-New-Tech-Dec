@@ -1,0 +1,64 @@
+﻿@using StudentApp.Entity.Model
+@model IEnumerable<Student>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Search</title>
+</head>
+<body>
+    <div>
+        <h1>Öğrenci Arama Modülü</h1>
+        <form method="post">
+            <input type="text" name="keyword" placeholder="Anahtar sözcük" value="@if (ViewBag.FormerKeyword != null){@ViewBag.FormerKeyword}" />
+
+            <input checked="checked" id="searchName" name="searchName" type="checkbox" value="true" /><input name="searchName" type="hidden" value="false" /> İsme göre ara
+            <input id="searchCitizenID" name="searchCitizenID" type="checkbox" value="true" /><input name="searchCitizenID" type="hidden" value="false" /> TCKN'ye göre ara
+            <input id="searchAge" name="searchAge" type="checkbox" value="true" /><input name="searchAge" type="hidden" value="false" /> Yaşa göre ara
+
+            
+
+            <input type="submit" value="Ara" />
+        </form>
+    </div>
+    @if (Model != null)
+    {
+        if (Model.Count() > 0)
+        {
+            <h4>@Model.Count().ToString() sonuç bulundu:</h4>
+            <table>
+                <tr>
+                    <th>Sn</th>
+                    <th>Name</th>
+                    <th>Citizen ID</th>
+                    <th>Birthday</th>
+                    <th>Age</th>
+                </tr>
+                @foreach (var student in Model)
+                {
+                    <tr>
+                        <th>@student.Id</th>
+                        <th>@student.Name</th>
+                        <th>@student.CitizenId</th>
+                        <th>@student.BirthDate</th>
+                        <th>@student.Age</th>
+                    </tr>
+                }
+            </table>
+        }
+        else
+        {
+            <text>Sonuç bulunamadı...</text>
+        }
+    }
+    else
+    {
+        <text>Bir öğrenci ismi giriniz ve ra düğmesine basınız</text>
+    }
+</body>
+</html>

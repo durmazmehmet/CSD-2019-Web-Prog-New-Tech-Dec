@@ -1,0 +1,11 @@
+C:\Developer\Mehmet\M06-DevicesAppMultiPlatform\DevicesAppRestClientWebAPI\DevicesAppRestClientService\bin\Release\netcoreapp3.1\CSD.DevicesApp.RestClientService.deps.json
+C:\Developer\Mehmet\M06-DevicesAppMultiPlatform\DevicesAppRestClientWebAPI\DevicesAppRestClientService\bin\Release\netcoreapp3.1\CSD.DevicesApp.RestClientService.dll
+C:\Developer\Mehmet\M06-DevicesAppMultiPlatform\DevicesAppRestClientWebAPI\DevicesAppRestClientService\bin\Release\netcoreapp3.1\CSD.DevicesApp.RestClientService.pdb
+C:\Developer\Mehmet\M06-DevicesAppMultiPlatform\DevicesAppRestClientWebAPI\DevicesAppRestClientService\bin\Release\netcoreapp3.1\CSD.Extensions.Net.Http.dll
+C:\Developer\Mehmet\M06-DevicesAppMultiPlatform\DevicesAppRestClientWebAPI\DevicesAppRestClientService\obj\Release\netcoreapp3.1\DevicesAppRestClientService.AssemblyInfoInputs.cache
+C:\Developer\Mehmet\M06-DevicesAppMultiPlatform\DevicesAppRestClientWebAPI\DevicesAppRestClientService\obj\Release\netcoreapp3.1\DevicesAppRestClientService.AssemblyInfo.cs
+C:\Developer\Mehmet\M06-DevicesAppMultiPlatform\DevicesAppRestClientWebAPI\DevicesAppRestClientService\obj\Release\netcoreapp3.1\DevicesAppRestClientService.csproj.CoreCompileInputs.cache
+C:\Developer\Mehmet\M06-DevicesAppMultiPlatform\DevicesAppRestClientWebAPI\DevicesAppRestClientService\obj\Release\netcoreapp3.1\DevicesAppRestClientService.csproj.CopyComplete
+C:\Developer\Mehmet\M06-DevicesAppMultiPlatform\DevicesAppRestClientWebAPI\DevicesAppRestClientService\obj\Release\netcoreapp3.1\CSD.DevicesApp.RestClientService.dll
+C:\Developer\Mehmet\M06-DevicesAppMultiPlatform\DevicesAppRestClientWebAPI\DevicesAppRestClientService\obj\Release\netcoreapp3.1\CSD.DevicesApp.RestClientService.pdb
+C:\Developer\Mehmet\M06-DevicesAppMultiPlatform\DevicesAppRestClientWebAPI\DevicesAppRestClientService\obj\Release\netcoreapp3.1\DevicesAppRestClientService.csprojAssemblyReference.cache

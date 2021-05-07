@@ -1,0 +1,45 @@
+﻿@model CarInfo
+
+@{
+    ViewData["Title"] = "Hanifi Car Shopping";
+}
+
+<h1>Araba admin form</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Insert">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">                
+                <input asp-for="Brand" class="form-control" placeholder="Marka giriniz" />
+                <span asp-validation-for="Brand" class="text-danger"></span>
+            </div>
+            <div class="form-group">                
+                <input asp-for="Model" class="form-control" placeholder="Model giriniz"/>
+                <span asp-validation-for="Model" class="text-danger"></span>
+            </div>
+            <div class="form-group">                
+                <input asp-for="Date" class="form-control" placeholder="Tarih giriniz"/>
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">                
+                <input asp-for="EngineId" class="form-control" placeholder="Motor no giriniz"/>
+                <span asp-validation-for="EngineId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="List">List All Cars</a>
+</div>
+
+@{ 
+    if (Model != null) { 
+        <text>@Model.Id</text>
+    }
+}
+

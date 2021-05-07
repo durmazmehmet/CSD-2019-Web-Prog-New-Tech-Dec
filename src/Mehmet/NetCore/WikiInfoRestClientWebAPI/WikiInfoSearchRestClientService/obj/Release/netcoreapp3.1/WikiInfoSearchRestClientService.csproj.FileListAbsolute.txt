@@ -1,0 +1,11 @@
+E:\Developer\Mehmet\NetCore\WikiInfoRestClientWebAPI\WikiInfoSearchRestClientService\bin\Release\netcoreapp3.1\CSD.WikiInfoSearch.RestClientService.deps.json
+E:\Developer\Mehmet\NetCore\WikiInfoRestClientWebAPI\WikiInfoSearchRestClientService\bin\Release\netcoreapp3.1\CSD.WikiInfoSearch.RestClientService.dll
+E:\Developer\Mehmet\NetCore\WikiInfoRestClientWebAPI\WikiInfoSearchRestClientService\bin\Release\netcoreapp3.1\CSD.WikiInfoSearch.RestClientService.pdb
+E:\Developer\Mehmet\NetCore\WikiInfoRestClientWebAPI\WikiInfoSearchRestClientService\bin\Release\netcoreapp3.1\CSD.Extensions.Net.Http.dll
+E:\Developer\Mehmet\NetCore\WikiInfoRestClientWebAPI\WikiInfoSearchRestClientService\obj\Release\netcoreapp3.1\WikiInfoSearchRestClientService.csprojAssemblyReference.cache
+E:\Developer\Mehmet\NetCore\WikiInfoRestClientWebAPI\WikiInfoSearchRestClientService\obj\Release\netcoreapp3.1\WikiInfoSearchRestClientService.AssemblyInfoInputs.cache
+E:\Developer\Mehmet\NetCore\WikiInfoRestClientWebAPI\WikiInfoSearchRestClientService\obj\Release\netcoreapp3.1\WikiInfoSearchRestClientService.AssemblyInfo.cs
+E:\Developer\Mehmet\NetCore\WikiInfoRestClientWebAPI\WikiInfoSearchRestClientService\obj\Release\netcoreapp3.1\WikiInfoSearchRestClientService.csproj.CoreCompileInputs.cache
+E:\Developer\Mehmet\NetCore\WikiInfoRestClientWebAPI\WikiInfoSearchRestClientService\obj\Release\netcoreapp3.1\WikiInfoSearchRestClientService.csproj.CopyComplete
+E:\Developer\Mehmet\NetCore\WikiInfoRestClientWebAPI\WikiInfoSearchRestClientService\obj\Release\netcoreapp3.1\CSD.WikiInfoSearch.RestClientService.dll
+E:\Developer\Mehmet\NetCore\WikiInfoRestClientWebAPI\WikiInfoSearchRestClientService\obj\Release\netcoreapp3.1\CSD.WikiInfoSearch.RestClientService.pdb

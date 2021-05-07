@@ -1,0 +1,224 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Developer\\CSD\\WebProgNewTech-Dec-2019\\src\\DotnetCore\\ASPDotnet\\M03-Appointment\\WebApp\\WebApp.csproj": {}
+  },
+  "projects": {
+    "E:\\Developer\\CSD\\WebProgNewTech-Dec-2019\\src\\DotnetCore\\ASPDotnet\\M03-Appointment\\AppointmentAppRepositoryLib\\AppointmentAppRepositoryLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Developer\\CSD\\WebProgNewTech-Dec-2019\\src\\DotnetCore\\ASPDotnet\\M03-Appointment\\AppointmentAppRepositoryLib\\AppointmentAppRepositoryLib.csproj",
+        "projectName": "CSD.AppointmentApp.Repository",
+        "projectPath": "E:\\Developer\\CSD\\WebProgNewTech-Dec-2019\\src\\DotnetCore\\ASPDotnet\\M03-Appointment\\AppointmentAppRepositoryLib\\AppointmentAppRepositoryLib.csproj",
+        "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
+        "outputPath": "E:\\Developer\\CSD\\WebProgNewTech-Dec-2019\\src\\DotnetCore\\ASPDotnet\\M03-Appointment\\AppointmentAppRepositoryLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mehme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Developer\\CSD\\WebProgNewTech-Dec-2019\\src\\DotnetCore\\ASPDotnet\\M03-Appointment\\AppointmentAppServiceLib\\AppointmentAppServiceLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Developer\\CSD\\WebProgNewTech-Dec-2019\\src\\DotnetCore\\ASPDotnet\\M03-Appointment\\AppointmentAppServiceLib\\AppointmentAppServiceLib.csproj",
+        "projectName": "CSD.AppointmentApp.Service",
+        "projectPath": "E:\\Developer\\CSD\\WebProgNewTech-Dec-2019\\src\\DotnetCore\\ASPDotnet\\M03-Appointment\\AppointmentAppServiceLib\\AppointmentAppServiceLib.csproj",
+        "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
+        "outputPath": "E:\\Developer\\CSD\\WebProgNewTech-Dec-2019\\src\\DotnetCore\\ASPDotnet\\M03-Appointment\\AppointmentAppServiceLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mehme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Developer\\CSD\\WebProgNewTech-Dec-2019\\src\\DotnetCore\\ASPDotnet\\M03-Appointment\\AppointmentAppRepositoryLib\\AppointmentAppRepositoryLib.csproj": {
+                "projectPath": "E:\\Developer\\CSD\\WebProgNewTech-Dec-2019\\src\\DotnetCore\\ASPDotnet\\M03-Appointment\\AppointmentAppRepositoryLib\\AppointmentAppRepositoryLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Developer\\CSD\\WebProgNewTech-Dec-2019\\src\\DotnetCore\\ASPDotnet\\M03-Appointment\\WebApp\\WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Developer\\CSD\\WebProgNewTech-Dec-2019\\src\\DotnetCore\\ASPDotnet\\M03-Appointment\\WebApp\\WebApp.csproj",
+        "projectName": "CSD.WebApp",
+        "projectPath": "E:\\Developer\\CSD\\WebProgNewTech-Dec-2019\\src\\DotnetCore\\ASPDotnet\\M03-Appointment\\WebApp\\WebApp.csproj",
+        "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
+        "outputPath": "E:\\Developer\\CSD\\WebProgNewTech-Dec-2019\\src\\DotnetCore\\ASPDotnet\\M03-Appointment\\WebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mehme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Developer\\CSD\\WebProgNewTech-Dec-2019\\src\\DotnetCore\\ASPDotnet\\M03-Appointment\\AppointmentAppRepositoryLib\\AppointmentAppRepositoryLib.csproj": {
+                "projectPath": "E:\\Developer\\CSD\\WebProgNewTech-Dec-2019\\src\\DotnetCore\\ASPDotnet\\M03-Appointment\\AppointmentAppRepositoryLib\\AppointmentAppRepositoryLib.csproj"
+              },
+              "E:\\Developer\\CSD\\WebProgNewTech-Dec-2019\\src\\DotnetCore\\ASPDotnet\\M03-Appointment\\AppointmentAppServiceLib\\AppointmentAppServiceLib.csproj": {
+                "projectPath": "E:\\Developer\\CSD\\WebProgNewTech-Dec-2019\\src\\DotnetCore\\ASPDotnet\\M03-Appointment\\AppointmentAppServiceLib\\AppointmentAppServiceLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

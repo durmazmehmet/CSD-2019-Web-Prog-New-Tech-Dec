@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>C ve Sistem Programcıları Derneği</title>
+    <script src="randomcard.js"></script>    
+</head>
+
+<body>
+    <div>
+        <img id="card" src="cards/back.bmp" width="72" height="96"/>        
+    </div>
+    <div><input type="button" onclick="randomCard()" value="Kart Çek"/></div>
+
+    <div>
+        <img name="cards" src="cards/back.bmp" width="72" height="96"/>
+        <img name="cards" src="cards/back.bmp" width="72" height="96"/>
+        <img name="cards" src="cards/back.bmp" width="72" height="96"/>
+        <img name="cards" src="cards/back.bmp" width="72" height="96"/>
+        <img name="cards" src="cards/back.bmp" width="72" height="96"/>
+    </div>
+    <div><input type="button" onclick="randomCards()" value="Kartlar Çek"/></div>
+
+    <div>
+        <img id="randomcard" src="cards/back.bmp" width="72" height="96"/>        
+    </div>
+    <div><input type="button" onclick="randomCardInterval()" value="Kart Çek"/></div>
+</body>
+</html>

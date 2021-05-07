@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>CSD.CarInfoApp.Models</RootNamespace>
+    <AssemblyName>CSD.CarInfoApp.Models</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CSD.Util.DBUtil">
+      <HintPath>..\..\M00-DbUtil\DBUtilLib\bin\Release\netcoreapp3.1\CSD.Util.DBUtil.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

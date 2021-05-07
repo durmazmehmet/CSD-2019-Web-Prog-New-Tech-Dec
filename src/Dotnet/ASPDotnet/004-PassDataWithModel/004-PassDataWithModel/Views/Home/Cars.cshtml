@@ -1,0 +1,36 @@
+﻿@using CSD.CarGalleryApp.Models
+@model IEnumerable<CarInfo>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div> 
+        <h4>@ViewBag.Title</h4>
+        <table border="1">            
+            <tr>
+                <th>Description</th>
+                <th>Price</th>
+                <th>Plate</th>
+            </tr>
+            @{ 
+                foreach (var ci in Model) { 
+                    <tr>
+                        <td>@ci.Description</td>
+                        <td>@ci.Price</td>
+                        <td>@ci.Plate</td>
+                    </tr>
+                }
+            }     
+        </table>        
+    </div>
+</body>
+</html>

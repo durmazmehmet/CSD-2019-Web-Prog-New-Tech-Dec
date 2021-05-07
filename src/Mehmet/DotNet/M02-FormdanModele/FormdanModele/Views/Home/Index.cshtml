@@ -1,0 +1,27 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        <h5>İşlem Tarihi: @ViewBag.Date.ToString("dd/MM/yyyy")</h5>
+    </div>
+    <form method="post">
+        <div><input type="text" name="name" placeholder="Ürün adını giriniz" /></div>
+        <div><input type="text" name="stock" placeholder="Stok miktarı giriniz" /></div>
+        <div><input type="text" name="unitPrice" placeholder="Birim fiyatı giriniz" /></div>
+        <div><input type="text" name="Cost" placeholder="Alış fiyatı giriniz" /></div>
+        <br />
+        <div><input type="submit" name="Kaydet" />  <input type="reset" name="İptal" /></div>
+    </form>
+    
+</body>
+</html>

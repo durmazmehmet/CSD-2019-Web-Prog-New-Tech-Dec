@@ -1,0 +1,9 @@
+E:\Developer\CSD\WebTech\src\Mehmet\M05-ParticipantAppRESTClient\ParticipantsAppClient\ParticipansAppRestClientService\obj\Debug\netcoreapp3.1\ParticipansAppRestClientService.csprojAssemblyReference.cache
+E:\Developer\CSD\WebTech\src\Mehmet\M05-ParticipantAppRESTClient\ParticipantsAppClient\ParticipansAppRestClientService\obj\Debug\netcoreapp3.1\ParticipansAppRestClientService.AssemblyInfoInputs.cache
+E:\Developer\CSD\WebTech\src\Mehmet\M05-ParticipantAppRESTClient\ParticipantsAppClient\ParticipansAppRestClientService\obj\Debug\netcoreapp3.1\ParticipansAppRestClientService.AssemblyInfo.cs
+E:\Developer\CSD\WebTech\src\Mehmet\M05-ParticipantAppRESTClient\ParticipantsAppClient\ParticipansAppRestClientService\obj\Debug\netcoreapp3.1\ParticipansAppRestClientService.csproj.CoreCompileInputs.cache
+E:\Developer\CSD\WebTech\src\Mehmet\M05-ParticipantAppRESTClient\ParticipantsAppClient\ParticipansAppRestClientService\bin\Debug\netcoreapp3.1\CSD.ParticipansAppRestClientService.deps.json
+E:\Developer\CSD\WebTech\src\Mehmet\M05-ParticipantAppRESTClient\ParticipantsAppClient\ParticipansAppRestClientService\bin\Debug\netcoreapp3.1\CSD.ParticipansAppRestClientService.dll
+E:\Developer\CSD\WebTech\src\Mehmet\M05-ParticipantAppRESTClient\ParticipantsAppClient\ParticipansAppRestClientService\bin\Debug\netcoreapp3.1\CSD.ParticipansAppRestClientService.pdb
+E:\Developer\CSD\WebTech\src\Mehmet\M05-ParticipantAppRESTClient\ParticipantsAppClient\ParticipansAppRestClientService\obj\Debug\netcoreapp3.1\CSD.ParticipansAppRestClientService.dll
+E:\Developer\CSD\WebTech\src\Mehmet\M05-ParticipantAppRESTClient\ParticipantsAppClient\ParticipansAppRestClientService\obj\Debug\netcoreapp3.1\CSD.ParticipansAppRestClientService.pdb

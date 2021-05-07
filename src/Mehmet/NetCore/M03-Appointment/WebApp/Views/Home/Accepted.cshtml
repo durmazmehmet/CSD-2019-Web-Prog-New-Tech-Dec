@@ -1,0 +1,36 @@
+﻿@model CSD.AppointmentApp.ViewModels.ClientViewModel
+
+@{
+    ViewData["Title"] = "Accepted";
+}
+
+<h1>Accepted</h1>
+
+<div>
+    <h4>ClientViewModel</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Client.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Client.Email)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Client.Phone)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Client.Phone)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Change Contact Info", "Edit", new { CitizenID = Model.Client.Id }) |
+    <a asp-action="ListClients">Back to List</a>
+</div>

@@ -1,0 +1,24 @@
+﻿@using StudentBirthDayApp.Entities
+@model Student
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Güncelleme Formu</title>
+</head>
+<body>    
+    <form method="post">
+        <div><input type="text" name="Id" value="@Model.Id" /></div>
+        <div><input type="text" name="Name" value="@Model.Name" /></div>
+        <div><input type="text" name="CitizenId" value="@Model.CitizenId" /></div>
+        <div><input type="date" name="BirthDate" value="@Model.BirthDate" /></div>
+        <div><input type="submit" value="Güncelle" /></div>
+    </form>   
+</body>
+</html>

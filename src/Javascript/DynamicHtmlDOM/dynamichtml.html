@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>C ve Sistem Programcıları Derneği</title>
+    <script src="dynamichtml.js"></script>    
+</head>
+
+<body>
+    <form action="/register" method="GET">
+        <div><input type="text" name="name" placeholder="Input your name"/></div>
+        <div><input type="number" name="number" placeholder="Input your number"/></div>
+        <div><input type="text" name="phones" readonly/></div>        
+        <div><input type="submit" value="Kayıt Ol"/></div>
+    </form>
+
+    <div name="div_phone"><input type="text" name="phone1" placeholder="Input your phone"/>
+        <input type="button" value="Ekle" onclick="addPhoneText()"/></div>        
+    <div id="register"><input type="button" value="Düzenle" onclick="editPhones()"/></div>
+</body>
+</html>

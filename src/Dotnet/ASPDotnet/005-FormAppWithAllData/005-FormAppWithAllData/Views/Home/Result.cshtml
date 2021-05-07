@@ -1,0 +1,22 @@
+﻿@using _005_FormAppWithAllData.Models
+@model Product
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Sonuç</title>
+</head>
+<body>
+    <div>@Model.Name</div>
+    <div>@Model.Stock</div>
+    <div>@Model.UnitPrice</div>
+    <div>@Model.Cost</div>
+    <div>Tutar:@Model.Total</div>
+</body>
+</html>

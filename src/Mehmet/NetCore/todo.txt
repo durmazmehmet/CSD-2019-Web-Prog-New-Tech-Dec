@@ -1,0 +1,13 @@
+﻿1. bu projeye bir mssql db hazırla, bu db'ye bağlanan repo ve bağlanan servis oluştur,
+2. sorgulama yapıldığında postgreden bilgiyi alıp mssql db'ye yazsın
+3. tekrar aynı cihaz sorgulandığında önce kendi servisine baksın, varsa orda yoksa rest servise gitsin 
+4. bir formu olan mikroservis olsun. mssqle bağlanan bir önyüzü olsun
+5. bir de mssql yapısı belli periyotlarla (300ms) rest serviten kendini güncellesin
+
+bu maddeler için PostalCodesAppSampleMicroserviceMultiplatform bak
+
+save olayını yap
+
+
+.---appointment
+restfullAPI yap

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>CSD.ParticipantsApp.TestRepositoryLib</AssemblyName>
+    <RootNamespace>CSD.ParticipantsApp.Repository.TestRepositoryLib</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ParticipantsAppRepositoryLib\ParticipantsAppRepositoryLib.csproj" />
+  </ItemGroup>
+
+</Project>

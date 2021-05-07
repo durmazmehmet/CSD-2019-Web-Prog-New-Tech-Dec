@@ -1,0 +1,14 @@
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppRepositoryLib\bin\Release\netcoreapp3.1\CSD.AppointmentApp.Repository.deps.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppRepositoryLib\bin\Release\netcoreapp3.1\CSD.AppointmentApp.Repository.runtimeconfig.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppRepositoryLib\bin\Release\netcoreapp3.1\CSD.AppointmentApp.Repository.runtimeconfig.dev.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppRepositoryLib\bin\Release\netcoreapp3.1\CSD.AppointmentApp.Repository.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppRepositoryLib\bin\Release\netcoreapp3.1\CSD.AppointmentApp.Repository.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppRepositoryLib\bin\Release\netcoreapp3.1\CSD.Util.DBUtil.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppRepositoryLib\obj\Release\netcoreapp3.1\AppointmentAppRepositoryLib.csproj.CoreCompileInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppRepositoryLib\obj\Release\netcoreapp3.1\AppointmentAppRepositoryLib.AssemblyInfoInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppRepositoryLib\obj\Release\netcoreapp3.1\AppointmentAppRepositoryLib.AssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppRepositoryLib\obj\Release\netcoreapp3.1\AppointmentAppRepositoryLib.csproj.CopyComplete
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppRepositoryLib\obj\Release\netcoreapp3.1\CSD.AppointmentApp.Repository.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppRepositoryLib\obj\Release\netcoreapp3.1\CSD.AppointmentApp.Repository.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppRepositoryLib\obj\Release\netcoreapp3.1\AppointmentAppRepositoryLib.genruntimeconfig.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M03-Appointment\AppointmentAppRepositoryLib\obj\Release\netcoreapp3.1\AppointmentAppRepositoryLib.csprojAssemblyReference.cache

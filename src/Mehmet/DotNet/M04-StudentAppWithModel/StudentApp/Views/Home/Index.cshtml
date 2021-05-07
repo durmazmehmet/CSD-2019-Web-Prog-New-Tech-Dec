@@ -1,0 +1,61 @@
+﻿@using StudentApp.Entity.Model;
+@model Student
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div> 
+        <form method="post">
+            <div>@Html.EditorFor(m => m.Name, new { placeholder = "İsminiz" })</div>
+            <div><input type="text" name="citizenId" placeholder="TCKN giriniz" /></div>
+            <div><input type="date" name="birthday" placeholder="Doğum tarihinizi giriniz" /></div>
+            <div><input type="submit" value="Kaydet" /> <input type="reset" value="İptal" /></div>
+           
+        </form>
+    </div>
+    <div>
+    @{
+        if(ViewBag.Message != null)
+        {
+            <h4>@ViewBag.Message</h4>
+        }
+        
+        var students = ViewBag.StudentsList as IEnumerable<Student>;
+        if (students.Count() > 0)
+        {
+            <table border="1">
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Citizen ID</th>
+                    <th>Birthday</th>
+                    <th>Age</th>
+                    <th>Update</th>
+                    <th>Delete</th>
+                </tr>
+                @foreach (var student in students)
+                {
+            <tr>
+                <td>@student.Id</td>
+                <td>@student.Name</td>
+                <td>@student.CitizenId</td>
+                <td>@student.BirthDate.ToString("dd.MM.yyyy")</td>
+                <td>@student.Age</td>
+                <td><a href="/Home/Update?id=@student.Id">Edit</a></td>
+                <td><a href="/Home/Delete?id=@student.Id">Sil</a></td>
+            </tr>
+                    }
+            </table>
+            }
+        }
+    </div>
+</body>
+</html>

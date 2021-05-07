@@ -1,0 +1,8 @@
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\Libraries\DotnetCoreLibraries\DBUtilLib\bin\Debug\netcoreapp3.1\CSD.Util.DBUtil.deps.json
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\Libraries\DotnetCoreLibraries\DBUtilLib\bin\Debug\netcoreapp3.1\CSD.Util.DBUtil.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\Libraries\DotnetCoreLibraries\DBUtilLib\bin\Debug\netcoreapp3.1\CSD.Util.DBUtil.pdb
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\Libraries\DotnetCoreLibraries\DBUtilLib\obj\Debug\netcoreapp3.1\DBUtilLib.csproj.CoreCompileInputs.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\Libraries\DotnetCoreLibraries\DBUtilLib\obj\Debug\netcoreapp3.1\DBUtilLib.AssemblyInfoInputs.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\Libraries\DotnetCoreLibraries\DBUtilLib\obj\Debug\netcoreapp3.1\DBUtilLib.AssemblyInfo.cs
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\Libraries\DotnetCoreLibraries\DBUtilLib\obj\Debug\netcoreapp3.1\CSD.Util.DBUtil.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\Libraries\DotnetCoreLibraries\DBUtilLib\obj\Debug\netcoreapp3.1\CSD.Util.DBUtil.pdb

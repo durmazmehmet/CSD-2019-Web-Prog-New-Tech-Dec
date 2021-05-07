@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Developer\\Mehmet\\NetCore\\M06-DevicesAppMultiPlatform\\DevicesAppRestClientWebAPI\\DevicesApp\\WebApp.csproj": {}
+  },
+  "projects": {
+    "E:\\Developer\\Mehmet\\NetCore\\M06-DevicesAppMultiPlatform\\DevicesAppRestClientWebAPI\\DevicesAppRestClientService\\DevicesAppRestClientService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Developer\\Mehmet\\NetCore\\M06-DevicesAppMultiPlatform\\DevicesAppRestClientWebAPI\\DevicesAppRestClientService\\DevicesAppRestClientService.csproj",
+        "projectName": "CSD.DevicesApp.RestClientService",
+        "projectPath": "E:\\Developer\\Mehmet\\NetCore\\M06-DevicesAppMultiPlatform\\DevicesAppRestClientWebAPI\\DevicesAppRestClientService\\DevicesAppRestClientService.csproj",
+        "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
+        "outputPath": "E:\\Developer\\Mehmet\\NetCore\\M06-DevicesAppMultiPlatform\\DevicesAppRestClientWebAPI\\DevicesAppRestClientService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mehme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Developer\\Mehmet\\NetCore\\M06-DevicesAppMultiPlatform\\DevicesAppRestClientWebAPI\\DevicesApp\\WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Developer\\Mehmet\\NetCore\\M06-DevicesAppMultiPlatform\\DevicesAppRestClientWebAPI\\DevicesApp\\WebApp.csproj",
+        "projectName": "CSD.DevicesApp.WebApp",
+        "projectPath": "E:\\Developer\\Mehmet\\NetCore\\M06-DevicesAppMultiPlatform\\DevicesAppRestClientWebAPI\\DevicesApp\\WebApp.csproj",
+        "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
+        "outputPath": "E:\\Developer\\Mehmet\\NetCore\\M06-DevicesAppMultiPlatform\\DevicesAppRestClientWebAPI\\DevicesApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mehme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Developer\\Mehmet\\NetCore\\M06-DevicesAppMultiPlatform\\DevicesAppRestClientWebAPI\\DevicesAppRestClientService\\DevicesAppRestClientService.csproj": {
+                "projectPath": "E:\\Developer\\Mehmet\\NetCore\\M06-DevicesAppMultiPlatform\\DevicesAppRestClientWebAPI\\DevicesAppRestClientService\\DevicesAppRestClientService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

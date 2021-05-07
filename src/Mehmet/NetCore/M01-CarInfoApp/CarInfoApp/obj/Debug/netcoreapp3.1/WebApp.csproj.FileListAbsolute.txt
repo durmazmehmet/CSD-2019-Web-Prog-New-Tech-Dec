@@ -1,0 +1,1076 @@
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.exe
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.deps.json
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.runtimeconfig.json
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.runtimeconfig.dev.json
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.pdb
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.Views.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.Views.pdb
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\CSD.WebApp.StaticWebAssets.Manifest.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\CSD.WebApp.StaticWebAssets.xml
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\CSD.WebApp.MvcApplicationPartsAssemblyInfo.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\CSD.WebApp.TagHelpers.input.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\CSD.WebApp.TagHelpers.output.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\CSD.WebApp.Views.pdb
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\CSD.WebApp.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\WebApp\WebApp\obj\Debug\netcoreapp3.1\CSD.WebApp.pdb
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.exe
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.deps.json
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.runtimeconfig.json
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.runtimeconfig.dev.json
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.pdb
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.Views.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.Views.pdb
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csprojAssemblyReference.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\CSD.WebApp.StaticWebAssets.Manifest.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\CSD.WebApp.StaticWebAssets.xml
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\CSD.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\CSD.WebApp.TagHelpers.input.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\CSD.WebApp.TagHelpers.output.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\CSD.WebApp.Views.pdb
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\CSD.WebApp.dll
+C:\Users\Karans\Dropbox\CSD\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\CSD.WebApp.pdb
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.exe
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.deps.json
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.runtimeconfig.json
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.runtimeconfig.dev.json
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.pdb
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.Views.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\CSD.WebApp.Views.pdb
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csprojAssemblyReference.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\CSD.WebApp.StaticWebAssets.Manifest.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\CSD.WebApp.StaticWebAssets.xml
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\CSD.WebApp.MvcApplicationPartsAssemblyInfo.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\CSD.WebApp.TagHelpers.input.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\CSD.WebApp.TagHelpers.output.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\CSD.WebApp.Views.pdb
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\CSD.WebApp.dll
+Z:\Dropbox\Kurslar\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\GenericWebApp\WebApp\obj\Debug\netcoreapp3.1\CSD.WebApp.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.exe
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.deps.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.runtimeconfig.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.runtimeconfig.dev.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Views.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Views.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.Util.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.csprojAssemblyReference.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.TagHelpers.input.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.TagHelpers.output.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\List.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.Views.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\staticwebassets\CSD.CarInfoApp.StaticWebAssets.Manifest.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\staticwebassets\CSD.CarInfoApp.StaticWebAssets.xml
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\002-CarInfoAppADODotnetConnectionless\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.Util.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.csprojAssemblyReference.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.TagHelpers.input.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.TagHelpers.output.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\List.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.Views.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.exe
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.deps.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.runtimeconfig.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.runtimeconfig.dev.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Views.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Views.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\staticwebassets\CSD.CarInfoApp.StaticWebAssets.Manifest.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\staticwebassets\CSD.CarInfoApp.StaticWebAssets.xml
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\bin\Debug\netcoreapp3.1\Bricelam.EntityFrameworkCore.Pluralizer.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFramework - Kopya\CarInfoApp\obj\Debug\netcoreapp3.1\EFCorePluralizer.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.Util.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.csprojAssemblyReference.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.TagHelpers.input.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.TagHelpers.output.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\List.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.exe
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.deps.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.runtimeconfig.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.runtimeconfig.dev.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Views.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Views.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.Views.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\staticwebassets\CSD.CarInfoApp.StaticWebAssets.Manifest.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\staticwebassets\CSD.CarInfoApp.StaticWebAssets.xml
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Bricelam.EntityFrameworkCore.Pluralizer.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\005m-CarInfoAppEntityFrameworkDBFirst\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.exe
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.deps.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.runtimeconfig.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.runtimeconfig.dev.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Views.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Views.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Bricelam.EntityFrameworkCore.Pluralizer.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.Util.DBUtil.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.csprojAssemblyReference.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.TagHelpers.input.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.TagHelpers.output.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\List.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.Views.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\staticwebassets\CSD.CarInfoApp.StaticWebAssets.Manifest.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\staticwebassets\CSD.CarInfoApp.StaticWebAssets.xml
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\Mehmet-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.exe
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.deps.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.runtimeconfig.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.runtimeconfig.dev.json
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Views.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Views.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Bricelam.EntityFrameworkCore.Pluralizer.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.Util.DBUtil.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoApp.Models.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppServicesLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.CarInfoAppRepositoryLib.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.csprojAssemblyReference.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.TagHelpers.input.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.TagHelpers.output.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\List.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.Views.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\staticwebassets\CSD.CarInfoApp.StaticWebAssets.Manifest.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\staticwebassets\CSD.CarInfoApp.StaticWebAssets.xml
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.dll
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\CSD.CarInfoApp.pdb
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+E:\Developer\CSD\WebProgNewTech-Dec-2019\src\DotnetCore\ASPDotnet\M01-CarInfoApp\CarInfoApp\bin\Debug\netcoreapp3.1\CSD.Util.DBUtil.pdb

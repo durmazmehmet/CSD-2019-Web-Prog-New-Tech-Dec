@@ -1,0 +1,23 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <h5>@ViewBag.Date.ToShortDateString()</h5>
+    <form method="post">
+        <div><input type="text" name="name" placeholder="Adını giriniz" /> </div>
+        <div><input type="text" name="stock" placeholder="Stok miktarını giriniz" /> </div>
+        <div><input type="text" name="unitPrice" placeholder="Birim fiyatını giriniz" /> </div>
+        <div><input type="text" name="cost" placeholder="Alış fiyatını giriniz" /> </div>
+        <div><input type="submit" value="Kaydet"/><input type="reset" value="Temizle" /></div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,53 @@
+﻿@using StudentApp.Entity.Model;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div> 
+        <form method="post">
+            <div><input type="text" name="name" placeholder="İsminizi giriniz" /></div>
+            <div><input type="text" name="passportid" placeholder="TCKN giriniz" /></div>
+            <div><input type="date" name="birthday" placeholder="Doğum tarihinizi giriniz" /></div>
+            <div><input type="submit" value="Kaydet" /> <input type="reset" value="İptal" /></div>
+        </form>
+    </div>
+    <div>
+    @{
+        if(ViewBag.Message != null)
+        {
+            <h4>@ViewBag.Message</h4>
+        }
+        
+        var students = ViewBag.Students as IEnumerable<Student>;
+        if (students.Count() > 0)
+        {
+            <table border="1">
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Passport</th>
+                    <th>Birthday</th>
+                </tr>
+                @foreach (var person in students)
+                {
+                    <tr>
+                        <th>@person.Id</th>
+                        <th>@person.Name</th>
+                        <th>@person.PassportId</th>
+                        <th>@person.BirthDate.ToString("dd.MM.yyyy")</th>
+                    </tr>
+                    }
+            </table>
+            }
+        }
+    </div>
+</body>
+</html>

@@ -1,0 +1,50 @@
+﻿@using FormdanModele.Model.Entity
+@model Product
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Result</title>
+</head>
+<body>    
+    <table class="table">
+        <tr>
+            <th>
+                İsim
+            </th>
+            <th>
+                Stok
+            </th>
+            <th>
+                Birim Fiyat
+            </th>
+            <th>
+                Fiyat
+            </th>
+        </tr>
+    
+     <tr>
+        <td>
+            @Model.Name
+        </td>
+        <td>
+            @Model.Stock
+        </td>
+        <td>
+            @Model.UnitPrice
+        </td>
+        <td>
+            @Model.Total
+        </td>
+    </tr>
+    
+    
+    </table>
+</body>
+</html>

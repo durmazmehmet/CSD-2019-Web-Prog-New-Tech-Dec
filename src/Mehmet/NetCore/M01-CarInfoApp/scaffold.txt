@@ -1,0 +1,13 @@
+Install-Package Bricelam.EntityFrameworkCore.Pluralizer -IncludePrerelease
+Scaffold-DbContext "Server=.\SQLEXPRESS;Database=CarInfoDb;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data -force
+
+(1)Dikkat bricelam scafoldingde hataya neden oluyor:
+
+CSD.CarInfoAppRepositoryLib csproj dosyasında 
+
+<PackageReference Include="Bricelam.EntityFrameworkCore.Pluralizer" Version="1.0.0">      
+    </PackageReference>
+
+PackageReference tagleri arasındakileri sil
+
+(2) Microsoft.EntityFrameworkCore.Design paketinin başlangıç projesinde de olması gerekiyor

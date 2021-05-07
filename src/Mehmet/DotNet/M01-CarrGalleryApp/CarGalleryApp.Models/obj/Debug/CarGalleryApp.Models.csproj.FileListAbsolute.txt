@@ -1,0 +1,6 @@
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\M-CarrGalleryApp\CarGalleryApp.Models\obj\Debug\CarGalleryApp.Models.csprojAssemblyReference.cache
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\M-CarrGalleryApp\CarGalleryApp.Models\obj\Debug\CarGalleryApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\M-CarrGalleryApp\CarGalleryApp.Models\bin\Debug\CarGalleryApp.Models.dll
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\M-CarrGalleryApp\CarGalleryApp.Models\bin\Debug\CarGalleryApp.Models.pdb
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\M-CarrGalleryApp\CarGalleryApp.Models\obj\Debug\CarGalleryApp.Models.dll
+C:\Users\mehme\Developer\CSD\WebProgNewTech-Dec-2019\src\Dotnet\ASPDotnet\M-CarrGalleryApp\CarGalleryApp.Models\obj\Debug\CarGalleryApp.Models.pdb

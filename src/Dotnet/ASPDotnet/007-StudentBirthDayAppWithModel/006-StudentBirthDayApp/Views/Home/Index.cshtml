@@ -1,0 +1,57 @@
+﻿@using System.Collections.Generic
+@using StudentBirthDayApp.Entities
+@model Student
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Öğrenci Formu</title>
+</head>
+<body>
+    <form method="post">
+        <div><input type="text" name="Name"  placeholder="İsim giriniz" /></div>
+        <div><input type="password" name="CitizenId" placeholder="T.C. Kimlik Numarası giriniz" /></div>
+        <div><input type="date" name="BirthDate" /></div>
+        <div><input type="submit" value="Kaydet" /></div>
+    </form>
+
+    @{
+        if (ViewBag.Message != null)
+        {
+            <text>@ViewBag.Message</text>
+        }                                   
+                    
+        var students = ViewBag.StudentList as IEnumerable<Student>;
+
+        if (students.Count() > 0)
+        {
+            <table border="1">
+                <tr>
+                    <th>ID</th>
+                    <th>CitizenId</th>
+                    <th>Name</th>
+                    <th>BirthDate</th>
+                    <th>Age</th>
+                </tr>
+            @foreach (var s in students)
+            {
+                <tr>
+                    <td>@s.Id</td>
+                    <td>@s.CitizenId</td>
+                    <td><a href="Update?id=@s.Id">@s.Name</a></td>
+                    <td>@s.BirthDate</td>
+                    <td>@s.Age</td>
+                </tr>
+
+            }
+            </table>
+        }            
+     }
+</body>
+</html>

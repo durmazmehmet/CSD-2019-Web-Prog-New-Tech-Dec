@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>CSD.AppointmentApp.Service</AssemblyName>
+    <RootNamespace>CSD.AppointmentApp.Service</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AppointmentAppRepositoryLib\AppointmentAppRepositoryLib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CSD.Util.DBUtil">
+      <HintPath>..\..\M00-DbUtil\DBUtilLib\bin\Release\netcoreapp3.1\CSD.Util.DBUtil.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

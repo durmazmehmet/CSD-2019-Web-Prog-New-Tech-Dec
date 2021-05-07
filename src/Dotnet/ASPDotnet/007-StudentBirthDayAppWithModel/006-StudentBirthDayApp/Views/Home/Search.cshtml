@@ -1,0 +1,53 @@
+﻿@using StudentBirthDayApp.Entities
+@model IEnumerable<Student>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Search Form</title>
+</head>
+<body>
+    <form method="post">
+        <div><input type="text" name="searchText" placeholder="Input your name" required/></div>
+        <div><input type="submit" value="Search" /></div>
+    </form>
+    @{
+        if (Model != null)
+        { //Get
+            if (Model.Count() > 0)
+            {
+                <table border="1">
+                    <tr>
+                        <th>ID</th>
+                        <th>CitizenId</th>
+                        <th>Name</th>
+                        <th>BirthDate</th>
+                        <th>Age</th>
+                    </tr>
+                    @foreach (var s in Model)
+                    {
+                        <tr>
+                            <td>@s.Id</td>
+                            <td>@s.CitizenId</td>
+                            <td>@s.Name</td>
+                            <td>@s.BirthDate</td>
+                            <td>@s.Age</td>
+                        </tr>
+                    }
+                </table>
+            }
+            else
+            {
+                <text>No data found</text>
+            }
+        }
+
+    }
+</body>
+</html>
